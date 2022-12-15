@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Hamid47-hrs
-- 👀 I’m interested in WEB Development, Specifically JavaScript
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-Mail:hamid47.hrs@gmail.com, LinkedIn:hamid-reza-sadati-hrs47, twitter:@HamidRS47;
-
-<!---
-Hamid47-hrs/Hamid47-hrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id='header' align='center'>
+  <img src='https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif' />
+</div>
+<hr />
+<div id='contact-me'>
+<h3 align="center">Contact Me</h3>
+  <a href='https://linkedin.com/in/hrsadati'>
+    <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' />
+  </a>
+  <a href='mailto:hamid47.hrs@gmail.com'>
+    <img src='https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white' />
+  </a>
+  <a href='https://twitter.com/hamidrs47'>
+    <img src='https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white' />
+  </a>
+  <a href='https://t.me/hamid47hrs'>
+    <img src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white' />
+  </a>
+</div>
