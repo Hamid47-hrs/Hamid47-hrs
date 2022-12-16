@@ -32,6 +32,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" **alt="BitBucket" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>
@@ -47,18 +48,18 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <hr />
   <div id='stats'>
 
-  ### :fire: My Stats :
+  ### :trophy: My Stats :
 <div align='center'>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamid47-hrs&theme=dark&background=000000)](https://git.io/streak-stats)
+![Alfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamid47-hrs&show_icons=true&theme=radical)
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid47-hrs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     </div>
   </div>
 </div>
 <hr />
-<div id='contact-me'>
-<h3 align="center">Contact Me</h3>
+<div id='contact-me' align='center'>
+<h3>Contact Me</h3>
   <a href='https://linkedin.com/in/hrsadati'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' />
   </a>
@@ -66,11 +67,15 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src='https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white' />
   </a>
   <a href='https://twitter.com/hamidrs47'>
-    <img src='https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white' />
+    <img src='https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white' />
+  </a>
+  <a href='https://www.instagram.com/hamid47hrs'>
+    <img src='https://img.shields.io/badge/Instagram-magenta?logo=instagram&logoColor=white' />
   </a>
   <a href='https://t.me/hamid47hrs'>
-    <img src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white' />
+    <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white' />
   </a>
+
 </div>
 <div id='view-rate' align='center'>
   <img src="https://komarev.com/ghpvc/?username=Hamid47-hrs&style=flat-square&color=blue" alt=""/>
