@@ -16,7 +16,9 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I play video games <img src='https://media.giphy.com/media/XbVMnNMJIDTG0yQSHT/giphy.gif' width='30' height='30' />, listen to metal music <img src='https://media.giphy.com/media/W10B2aNJqdMtuR7uGm/giphy.gif' width='30' height='30' /> and create random applications.
 
-- :mailbox: Best place to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](href='https://linkedin.com/in/hrsadati')
+- :mailbox: Best place to reach me: <a href='https://linkedin.com/in/hrsadati'>
+    <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' />
+  </a>
 
 <hr />
   
