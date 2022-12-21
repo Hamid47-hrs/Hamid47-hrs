@@ -10,7 +10,7 @@
 ### :man_technologist: About Me :
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Iran.
 
-- :telescope: I’m working as a frontend and backend developer and building web applications.
+- :telescope: I’m working as a frontend and backend developer and create web applications.
 
 - :seedling: Exploring AI Content.
 
