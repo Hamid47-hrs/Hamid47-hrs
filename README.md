@@ -1,84 +1,45 @@
-<div id='header' align='center'>
-  <img src='https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif' width='400' />
-</div>
-<div id='body'>
-  <h1 align='center'>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  </h1>
+# Hi there 👋, I'm Hamid
 
-### :man_technologist: About Me :
-I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Iran.
+🚀 Full-Stack Developer | Passionate about **Web Development** and **Educational Technology (EdTech)**
 
-- :telescope: I’m working as a frontend and backend developer and create web applications.
+With a background in both education and programming, I focus on building scalable, efficient, and modern web applications. I’m particularly interested in combining **AI** and **EdTech** to create meaningful learning experiences.
 
-- :seedling: Exploring AI Content.
+---
 
-- :zap: In my free time, I play video games <img src='https://media.giphy.com/media/XbVMnNMJIDTG0yQSHT/giphy.gif' width='30' height='30' />, listen to metal music <img src='https://media.giphy.com/media/W10B2aNJqdMtuR7uGm/giphy.gif' width='30' height='30' /> and create random applications.
+## 🛠️ Tech Stack & Skills
 
-- :mailbox: Best place to reach me: <a href='https://linkedin.com/in/hrsadati'>
-    <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' />
-  </a>
+- **Frontend Development**:  
+  React.js (TypeScript) <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;, TailwindCSS <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;, Responsive Web Design  
 
-<hr />
-  
-### :hammer_and_wrench: Here is a list of Languages and tools I use :
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" **alt="BitBucket" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" **alt="SQLAlchemy" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PhotoShop" **alt="PhotoShop" width="40" height="40"/>
-  </div>
-  <hr />
-  <div id='stats'>
+- **Backend Development**:  
+  Node.js (TypeScript) <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;, Express.js <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;, REST APIs
 
-  ### :trophy: My Stats :
-<div align='center'>
-  
-![Alfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamid47-hrs&show_icons=true&theme=radical)
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid47-hrs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-  </div>
-</div>
-<hr />
-<div id='contact-me' align='center'>
-<h3>Contact Me</h3>
-  <a href='https://linkedin.com/in/hrsadati'>
-    <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' />
-  </a>
-  <a href='mailto:hamid47.hrs@gmail.com'>
-    <img src='https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white' />
-  </a>
-  <a href='https://twitter.com/hamidrs47'>
-    <img src='https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white' />
-  </a>
-  <a href='https://www.instagram.com/hamid47hrs'>
-    <img src='https://img.shields.io/badge/Instagram-magenta?logo=instagram&logoColor=white' />
-  </a>
-  <a href='https://t.me/hamid47hrs'>
-    <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white' />
-  </a>
+- **Other Languages**:  
+  C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;, Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
-</div>
-<div id='view-rate' align='center'>
-  <img src="https://komarev.com/ghpvc/?username=Hamid47-hrs&style=flat-square&color=blue" alt=""/>
-</div>
+- **Databases & Tools**:  
+  PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;, Prisma ORM <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;, MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+
+- **DevOps & Deployment**:  
+  Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;& GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;, Render.com, CI/CD basics  
+
+---
+
+## 📌 Featured Projects
+- **[React Store](https://github.com/Hamid47-hrs/React-Store)** – A modern e-commerce application built with React and TypeScript.  
+- **[Edvana Educational Platform API]([https://github.com/Hamid47-hrs/React-Store](https://github.com/Hamid47-hrs/edvana-educational-platform-api))** – A modern educational platform build with Node.js, Express.js and TypeScript.
+---
+
+## 🌱 Currently Learning
+- Advanced Python for Data & AI  
+- Adaptive Learning and NLP in EdTech  
+
+---
+
+## 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/hrsadati/)  
+- 📧 hamid47.hrs@gmail.com  
+
+---
+
+✨ *Always open to collaboration, especially in EdTech and AI-driven projects.*  
