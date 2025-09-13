@@ -27,7 +27,7 @@ With a background in both education and programming, I focus on building scalabl
 
 ## 📌 Featured Projects
 - **[React Store](https://github.com/Hamid47-hrs/React-Store)** – A modern e-commerce application built with React and TypeScript.  
-- **[Edvana Educational Platform API]([https://github.com/Hamid47-hrs/React-Store](https://github.com/Hamid47-hrs/edvana-educational-platform-api))** – A modern educational platform build with Node.js, Express.js and TypeScript.
+- **[Edvana Educational Platform API]([https://github.com/Hamid47-hrs/React-Store](https://github.com/Hamid47-hrs/edvana-educational-platform-api)** – A modern educational platform build with Node.js, Express.js and TypeScript.
 ---
 
 ## 🌱 Currently Learning
